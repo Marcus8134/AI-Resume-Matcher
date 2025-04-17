@@ -30,6 +30,8 @@ SentenceTransformers
 
 Required libraries: smtplib, email, re, concurrent.futures, string.
 
+Install the necessary Python libraries with the following command:
+
 # Customization
 
 **Model Tuning:**
