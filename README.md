@@ -32,6 +32,8 @@ Required libraries: smtplib, email, re, concurrent.futures, string.
 
 Install the necessary Python libraries with the following command:
 
+pip install streamlit PyPDF2 sentence-transformers
+
 # Customization
 
 **Model Tuning:**
