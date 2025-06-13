@@ -4,7 +4,7 @@
 
 AI Resume Matcher is a Streamlit application designed to automatically shortlist candidates by comparing candidate resumes (PDF format) with a job description. It leverages advanced Natural Language Processing techniques using Sentence Transformers to calculate similarity scores. The application uses a multi-agent approach to process multiple resumes concurrently, increasing efficiency. If a resume's similarity score exceeds a defined threshold, it also extracts matching keywords and sends out an interview invitation via email.
 
-Demo Video Link: https://drive.google.com/file/d/1nzDB43rX0GzgnFToIjktlr7XwXf6dLOy/view?usp=drive_link
+
 
 # Features
 
